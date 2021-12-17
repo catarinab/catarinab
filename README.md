@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 Im currently pursuing a Bachelor Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
+- 👩‍🎓 I'm pursuing a Bachelor Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 - 🌱 I’m currently learning more about algorithms!
 - 😄 Pronouns: she/her
 <!--
