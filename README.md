@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👩‍🎓 Im currently pursuing a Bachelor Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
+- 🌱 I’m currently learning more about algorithms.
+- 😄 Pronouns: she/her
 <!--
 **catarinab/catarinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
