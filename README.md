@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about algorithms!
 - 😄 Pronouns: she/her
 
-#### I'm Confortable with:
+#### Languages and Tools:
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
