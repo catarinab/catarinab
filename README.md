@@ -31,18 +31,11 @@
  </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=catarinab" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarinab&layout=compact" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarinab&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarinab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 **catarinab/catarinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
