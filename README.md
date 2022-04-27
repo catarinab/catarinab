@@ -4,8 +4,12 @@
 - 🌱 I’m currently learning more about Machine Learning!
 - 😄 Pronouns: she/her
 
+<br>
+
 #### Languages and Tools:
-<p align="left"> 
+
+<br>
+<p align="center"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
@@ -31,12 +35,20 @@
  </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=catarinab&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
+#### Github Stats:
+
+<br>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=catarinab&date_format=M%20j%5B%2C%20Y%5D"/></p>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarinab&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 **catarinab/catarinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
