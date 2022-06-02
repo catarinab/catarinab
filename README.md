@@ -36,14 +36,14 @@
 </p>
 
 <br>
-
+<!--
 #### Github Stats:
 
 <br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=catarinab&date_format=M%20j%5B%2C%20Y%5D"/></p>
 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarinab&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
