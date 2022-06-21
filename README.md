@@ -5,6 +5,8 @@
 
 <br>
 
+<!--
+
 #### Languages and Tools:
 
 <br>
@@ -35,7 +37,7 @@
 </p>
 
 <br>
-<!--
+
 #### Github Stats:
 
 <br>
