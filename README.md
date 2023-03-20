@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👩‍🎓 I'm pursuing a Master's Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
-- 😄 Pronouns: she/her
 
 <br>
 
