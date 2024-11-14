@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 I'm pursuing a Master's Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
+- 👩‍🎓 Just graduated from the Master's Degree in Computer Science and Engineering with a master thesis grade of **19/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 
 <br>
 
