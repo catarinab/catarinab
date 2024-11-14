@@ -8,9 +8,9 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=catarinab&date_format=M%20j%5B%2C%20Y%5D&theme=dracula"/></p>
+<p align="center"><img src="[![Catarinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab)](https://github.com/anuraghazra/github-readme-stats)"/></p>
 
-<!--
+
 
 #### Languages and Tools:
 
@@ -42,6 +42,8 @@
 </p>
 
 <br>
+
+<!--
 
 **catarinab/catarinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
