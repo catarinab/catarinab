@@ -1,16 +1,7 @@
 ### Hi there 👋
 
 - 👩‍🎓 Just graduated from the Master's Degree in Computer Science and Engineering with a master thesis grade of **19/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
-
-<br>
-
-#### Github Stats:
-
-<br>
-
-<p align="center"><img src="[![Catarinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinab)](https://github.com/anuraghazra/github-readme-stats)"/></p>
-
-
+- 🔭 I’m currently working as a Cybersecurity Analyst at .PT
 
 #### Languages and Tools:
 
