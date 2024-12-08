@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 Just graduated from the Master's Degree in Computer Science and Engineering with a master thesis grade of **19/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
+- 👩‍🎓 Just graduated from the Master's Degree in Computer Science and Engineering with a master thesis grade of **20/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 - 🔭 I’m currently working as a Cybersecurity Analyst at .PT
 
 #### Languages and Tools:
