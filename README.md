@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👩‍🎓 Just graduated from the Master's Degree in Computer Science and Engineering with a master thesis grade of **20/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
-- 🔭 I’m currently working as a Cybersecurity Analyst at .PT
+- Currently a Security Operations Engineer at Cloudflare!
+- 🔭 Previosuly Cybersecurity Analyst at .PT
+- 👩‍🎓 I hold a Master's Degree in Computer Science and Engineering with a master thesis grade of **20/20** and final gpa of **18/20** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 
 #### Languages and Tools:
 
